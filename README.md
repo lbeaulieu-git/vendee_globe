@@ -1,6 +1,5 @@
 ![png](figures/logo.png)
 <br>
-<h1 align=center><font size=6>Projet final du Kit Data Science 2021</font></h1>
 <h2 align=center><font size=5>Analyse des données du Vendée Globe 2020-2021</font></h2>
 <h3 align=center>Louis BEAULIEU - MS BGD</h3>
 
