@@ -889,7 +889,7 @@ proj_var(1, 2)
     
 
 
-La matrice de corrélation et les projections des variables sur les 3 premiers axes principaux permettent d'identifier une légère corrélation positive entre le déplacement et la présence d'un foil.
+La matrice de corrélation et les projections des variables sur les 3 premiers axes principaux permettent d'identifier une légère corrélation positive entre le poids et la présence d'un foil.
 
 <h1 id="ref4">4 - Analyse prédictive</h1>
 
